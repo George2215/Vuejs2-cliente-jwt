@@ -1,0 +1,17 @@
+{
+  "validation": {
+    "required": "{attribute}: campo requerido",
+    "minLength": "La longitud mínima es inferior a la requerida",
+    "emailMatch": "No se ha encontrado ninguna cuenta con estas credenciales",
+    "email": "{attribute} no tiene un formato válido",
+    "sameAs": "{attribute}: campo requerido",
+    "samePassword": "Las contraseñas no pueden ser las mismas"
+  },
+  "forms": {
+    "name": "nombre",
+    "email": "correo electrónico",
+    "password": "contraseña",
+    "password_confirmation": "confirmación de contraseña"
+  },
+  "The email has already been taken.": "El correo electrónico ya está en uso"
+}
